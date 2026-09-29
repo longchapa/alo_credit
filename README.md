@@ -61,4 +61,4 @@ pytest -q
 
 ## Nota
 
-Esta es una solución de estudio deliberadamente pequeña. No intenta implementar Clean Architecture/Hexagonal completa ni agregar infraestructura innecesaria para una prueba de aproximadamente una hora.
+Esta es una solución de estudio deliberadamente pequeña. No intenta implementar Clean Architecture/Hexagonal completa ni agregar infraestructura innecesaria. Se siguio el scafolding del repositorio dando como resultado un acercamiento a arquitectura por capas
